@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Database</title>
+    <link href="/2021/03/12/Database/"/>
+    <url>/2021/03/12/Database/</url>
+    
+    <content type="html"><![CDATA[<h1 id="盘符切换-加-d"><a href="#盘符切换-加-d" class="headerlink" title="盘符切换 加\d"></a>盘符切换 加\d</h1><h1 id="查看当前目录的所有文件-dir"><a href="#查看当前目录的所有文件-dir" class="headerlink" title="查看当前目录的所有文件 dir"></a>查看当前目录的所有文件 dir</h1><h1 id="切换目录-cd-change-director"><a href="#切换目录-cd-change-director" class="headerlink" title="切换目录 cd change director"></a>切换目录 cd change director</h1><p>cd.. 返回上一级<br>cd \d C:\Users\Administrator\Desktop\blog\source_posts 切换到桌面某个文件夹</p><h1 id="清理屏幕-cls"><a href="#清理屏幕-cls" class="headerlink" title="清理屏幕 cls"></a>清理屏幕 cls</h1><h1 id="退出终端-exit"><a href="#退出终端-exit" class="headerlink" title="退出终端 exit"></a>退出终端 exit</h1><h1 id="查看电脑的ip-ipconfig"><a href="#查看电脑的ip-ipconfig" class="headerlink" title="查看电脑的ip ipconfig"></a>查看电脑的ip ipconfig</h1><h1 id="打开应用"><a href="#打开应用" class="headerlink" title="打开应用"></a>打开应用</h1><p>   calc 计算器<br>   mspaint 画图<br>   notepad 记事本</p><h1 id="ping-命令"><a href="#ping-命令" class="headerlink" title="ping 命令"></a>ping 命令</h1><p>   ping <a href="http://www.baidu.com/">www.baidu.com</a></p><h1 id="文件操作"><a href="#文件操作" class="headerlink" title="文件操作"></a>文件操作</h1><p>   md 目录<br>   rd 目录<br>   cd&gt; 文件名<br>   del 文件名</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>数据库</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>数据库</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
