@@ -28,5 +28,30 @@
   
   
   
+  <entry>
+    <title>markdown语法基础</title>
+    <link href="/2021/03/12/markdown%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80/"/>
+    <url>/2021/03/12/markdown%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80/</url>
+    
+    <content type="html"><![CDATA[<h1 id="markdown语法基础"><a href="#markdown语法基础" class="headerlink" title="markdown语法基础"></a>markdown语法基础</h1><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><p><strong>hello world</strong>  加粗 ctrl +B</p><p><em>hello world</em>  斜体 Ctrl +i</p><p><del>hello world</del>  删除 shift+alt+5</p><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>女人只会影响我拔刀的速度 </p></blockquote><h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2><hr><hr><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><img src="D:\素材\nba2kol2 2019-10-14 19-35-58-279.jpg" alt="图" style="zoom: 80%;" /><p>ctrl+shift+I</p><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="https://www.baidu.com/?tn=88093251_98_hao_pg">点击跳转百度</a> ctrl +k</p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>有序</p><ol><li>A</li><li>B</li></ol><p>无序</p><ul><li><p>a</p></li><li><p>b</p></li></ul><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">public</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>markdown语法基础</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>markdown语法基础</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
